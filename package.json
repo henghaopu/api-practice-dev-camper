@@ -1,0 +1,19 @@
+{
+  "name": "api-practice-dev-camper",
+  "version": "1.0.0",
+  "description": "Devcamper backend API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henghaopu/api-practice-dev-camper.git"
+  },
+  "author": "Heng-Hao Pu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henghaopu/api-practice-dev-camper/issues"
+  },
+  "homepage": "https://github.com/henghaopu/api-practice-dev-camper#readme"
+}
